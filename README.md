@@ -32,6 +32,9 @@ Attach OpenAi Api and have an option to take the information from a single story
 - split screen where one side is the real article and the other side is ChatGPT writing from the prompt:
 "Write a New York Times Style article that is 3 paragraphs long including the following information: [article summary from the API]"
 
+# App structure
+![app structure](assets/MERN%20stack%20app%20structure.png)
+
 # Technology used:
 
 - This project uses the [NYTimes API](https://developer.nytimes.com/apis)
