@@ -1,3 +1,5 @@
+![preview](assets/NYTapp.gif)
+
 # Goal of this project is to spend time on React Hooks
 
 - [useEffect](https://reactjs.org/docs/hooks-reference.html#useeffect)
@@ -5,6 +7,8 @@
 - [useMemo](https://reactjs.org/docs/hooks-reference.html#usememo)
 - [useCallback](https://reactjs.org/docs/hooks-reference.html#usecallback)
 - [useContext](https://reactjs.org/docs/hooks-reference.html#usecontext)
+
+
 
 # Strech Goals for this Project:
 

@@ -29,6 +29,7 @@ export const Hero = () => {
             <SectionButton name={"politics"} handleClick={handleClick} />
             <SectionButton name={"realestate"} handleClick={handleClick} />
             <SectionButton name={"food"} handleClick={handleClick} />
+            <SectionButton name={"technology"} handleClick={handleClick} />
           </div>
           <TopStories section={section} />
         </div>
