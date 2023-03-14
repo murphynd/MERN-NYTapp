@@ -15,7 +15,7 @@ export const Card = ({
   subsection,
 }) => {
   return (
-    <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white">
+    <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white grow h-full">
       {multimedia && <ArticleImage multimedia={multimedia[1]} />}
       <div className="px-6 py-4">
         <a className="font-bold text-xl mb-2" href={url}>
